@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeatherObserve</string>
+    <string name="enter_city">Enter name of city:</string>
+    <string name="accept">Show Information</string>
+    <string name="connection_info">No Internet Connection!</string>
+    <string name="empty_field">Field cannot be empty!</string>
+</resources>
