@@ -76,7 +76,7 @@ class WeatherFragment : Fragment() {
 
 
     private fun initViews() {
-
+        val lol = "lol"
         val hello = "Hello my friend"
         adapter = WeatherAdapter(requireContext())
         val disabler: RecyclerView.OnItemTouchListener = RecyclerViewDisabler()
